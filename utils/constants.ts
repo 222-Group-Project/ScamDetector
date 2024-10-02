@@ -1,0 +1,1 @@
+export const HONEYPOT_API_URL = 'https://api.honeypot.is/v2/IsHoneypot';
